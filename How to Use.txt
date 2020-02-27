@@ -1,0 +1,27 @@
+                          ===========================
+                          | How to use this program |
+                          |    February 27, 2020    |
+                          ===========================
+
+1. Open the Terminal app (you can press Cmd+Space and type "Terminal", or you
+   can open it from the Applications folder in the Finder).
+
+2. Drag the "filedetails" file from this folder into the Terminal.
+
+3. Navigate to the folder you want to get the details of. At the top of the
+   Finder window, it should show a tiny blue folder icon along with the name
+   of the folder. Click on that blue folder icon and drag it into the Terminal.
+
+4. Press Enter. It should say "Saved file details to /Users/<user>/Desktop/
+   filedetails-<folder name>.csv".
+
+5. You can close the Terminal window now.
+
+6. The file containing the folder information will be on the desktop. You can
+   open it in Excel or Google Sheets and print it from there.
+
+In case you need the code for this program for some reason (eg. to verify that
+it isn't a virus), you can look inside the "src" folder.
+
+If you run into problems, please let me know!
+Wilson
